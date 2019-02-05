@@ -1,0 +1,4 @@
+scp -r -P 00000 ~/folder_in_the_computer  pi@proxy00.rt3.io:/home/pi
+
+# ~/ means the whole folder, if it is just an archive, there is no need for it.
+# /home/pi is the file in the raspberry pi, there is the possibility to choose an other one
